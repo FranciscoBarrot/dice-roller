@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://fondosmil.com/fondo/10855.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#title{
+    color: #FFA420;
+    -webkit-text-stroke: 2px black;
+}
